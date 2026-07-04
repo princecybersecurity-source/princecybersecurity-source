@@ -1,10 +1,5 @@
 # 👋 Hi there, I'm Prince! 
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
 ---
 
 ### 🛡️ About Me
@@ -16,10 +11,10 @@ I am a passionate **Cybersecurity Student** specializing in **Network Security**
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Operating Systems** | ![Linux](https://shields.io) ![Ubuntu](https://shields.io) |
-| **Traffic Analysis** | ![Wireshark](https://shields.io) |
-| **Network Recon & Labs** | ![Nmap](https://shields.io) ![Cisco](https://shields.io) `Zenmap` |
-| **Scripting & Code** | ![Python](https://shields.io) |
+| **Operating Systems** | `Linux` `Ubuntu` |
+| **Traffic Analysis** | `Wireshark` |
+| **Network Recon & Labs** | `Nmap` `Zenmap` `Cisco Packet Tracer` |
+| **Scripting & Code** | `Python` |
 
 ---
 
@@ -36,4 +31,4 @@ I am a passionate **Cybersecurity Student** specializing in **Network Security**
 ---
 
 ### 🤝 Let's Connect!
-🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/prince-cybersecurity-1908a341b)
+🌐 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
